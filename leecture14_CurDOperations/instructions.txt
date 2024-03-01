@@ -1,0 +1,16 @@
+/**
+ * goto mongoDb compass 
+ * Db create: use ecommerce (db created)
+ * collection creation: createCollection('product')
+ * collection creation: createCollection('items')
+ *  deleting a collection: db.item.Drop
+ * show dbs
+ * use db ecommerce 
+ * db.DropDatabase()
+ */
+
+ //assignment 
+ 1 create a db named e-com
+ 2 create collection products
+ 3 Add data with different Products
+ 4 goto github clone the code.
