@@ -14,3 +14,14 @@
  2 create collection products
  3 Add data with different Products
  4 goto github clone the code.
+
+goto folder of github and inside artofprogramming
+5 switch branch to qasim001 goto terminal type git pull
+6 switch branch to your branch git pull
+7 git merge origin upd/qasim001
+8 goto leecture14_CurdOperations
+9 spelling correct db ( aap k mongo db sy)
+10 node ./index.js
+
+
+
